@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.color-display {
+    width: 300px;
+    height: 100px;
+    margin-top: 20px;
+    border: 2px solid #000;
+    background-color: #ffffff; /* Color inicial */
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+ul {
+
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
